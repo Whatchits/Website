@@ -1,0 +1,13 @@
+p {
+Font-Size: 30px;
+}
+body {
+background-color: #747a7a;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
